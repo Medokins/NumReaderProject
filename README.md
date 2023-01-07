@@ -14,7 +14,7 @@ Projekt napisany został w języku python. W związku z tym pierwszym krokiem po
 Wszelkie potrzebne dependencies zawarte są w pliku `requirements.txt` zatem by poprawnie zainstalować zależności należy użyć komendy:
 
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 Po instalacji wszystkich zależności jedynym co pozostało do zrobienia jest uruchomienie pliku wejściowego `main.py`. Należy to zrobić przy użyciu komendy:
